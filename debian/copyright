@@ -5,12 +5,13 @@ Files-Excluded: gradlew*
                 gradle/wrapper
 
 Files: *
-Copyright: 2017-2019, Marc Philipp
+Copyright: 2017-2021, Marc Philipp
            2017, Sam Brannen
 License: Apache-2.0
 
 Files: debian/*
-Copyright: 2019-2021, Emmanuel Bourg
+Copyright: 2019-2022, Emmanuel Bourg
+           2021-2022, tony mancill <tmancill@debian.org>
 License: Apache-2.0
 
 License: Apache-2.0
